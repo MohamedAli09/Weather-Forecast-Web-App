@@ -20,8 +20,7 @@ async function getApi(key) {
   var cartoona = "";
 
   try {
-    var res = await fetch(`http://api.weatherapi.com/v1/forecast.json?key=23824e0d656346d3bbd144600232712&q=${key}&days=7`);
-
+      var res = await fetch(`https://api.weatherapi.com/v1/forecast.json?key=23824e0d656346d3bbd144600232712&q=${key}&days=7`);
     if (!res.ok) {
       throw new Error(`Weather API request failed with status: ${res.status}`);
     }
