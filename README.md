@@ -46,7 +46,8 @@ Connect with the Weather Forecast community through social media. The footer inc
 3. Explore different sections using the navigation bar.
 4. Use the search bar to fetch weather information for a specific location.
 
+## Live Demo
+Check out the live demo [here](https://mohamedali09.github.io/Weather-Forecast-Web-App/) to experience the Weather Forecast Web App in action.
+
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or create a pull request.
-
- 
